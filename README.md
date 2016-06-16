@@ -2,8 +2,8 @@
 
 ### Provenance
 
-Book: [15 Graphic Games for the Spectrum][1] (page 11)
-Game: [Sub Hunt][2]
+* Book: [15 Graphic Games for the Spectrum][1] (page 11)
+* Game: [Sub Hunt][2]
 
 ### Files
 
