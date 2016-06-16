@@ -9,6 +9,7 @@
       function go() {
         var jsspeccy = JSSpeccy('speccy', {
           'autoload': true,
+          'autostart': false,
           'audio': false,
           'loadFile': 'https://rawgit.com/floehopper/sub-hunt/master/sub-hunt.tap'
           });
@@ -18,5 +19,14 @@
   </head>
   <body onload="go()">
     <div id="speccy"></div>
+    <p>
+      <h2>Key mappings</h2>
+      <ul>
+        <li>Move Left: 5</li>
+        <li>Move Right: 8</li>
+        <li>Fire Left: 1</li>
+        <li>Fire Right: 2</li>
+      </ul>
+    </p>
   </body>
 </html>
